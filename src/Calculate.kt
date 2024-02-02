@@ -2,6 +2,7 @@ fun main(){
     tusk1()
 }
 fun tusk1(){
+
     while (true) {
 
         try {
